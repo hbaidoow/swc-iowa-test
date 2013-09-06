@@ -4,3 +4,5 @@ def power(x):
     # I am adding a comment
 def square_root(x):
     return np.sqrt(x)
+    
+    hehe
